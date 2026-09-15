@@ -25,7 +25,7 @@ This means our model successfully explains **44.8%** of the mathematical varianc
    ```bash
    pip install numpy pandas scikit-learn matplotlib
    ```
-3. Replace reviews_df = pd.read_csv('C:\\...') with reviews_df = pd.read_csv(url, index_col=0). Open the Jupyter Notebook file (`.ipynb`) and run the cells. The notebook will automatically download the dataset dynamically via URL, so you don't need to manually upload or store a large 50MB CSV file.
+3. Replace reviews_df = pd.read_csv('C:\\Users\\...') with reviews_df = pd.read_csv(url, index_col=0). Open the Jupyter Notebook file (`.ipynb`) and run the cells. The notebook will automatically download the dataset dynamically via URL, so you don't need to manually upload or store a large 50MB CSV file.
 
 ---
 *Project engineered by Stephen Adofo Kissi.*
